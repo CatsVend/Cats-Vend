@@ -1,0 +1,3 @@
+worker: python index.py
+worker: python setting.py
+worker: python randomstring.py
